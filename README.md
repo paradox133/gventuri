@@ -12,16 +12,9 @@
 <hr />
 
 - 👀 I’m interested in **startups**, **ai** and **web3**.
-- 🌱 I’m currently learning **gpt**.
+- 🌱 I’m currently learning **AIGC**.
 - 💞️ I’m looking to collaborate on something new and disrupting.
 
-<h3 align="center">📫 Reach me out:</h3>
-<div align="center">
-
-  <a href="https://github.com/paradox133">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/github.svg" alt="github" style="max-width: 100%;">
-  </a>
-</div>
 
 <!---
 gventuri/gventuri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
