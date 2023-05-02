@@ -19,7 +19,7 @@
 <div align="center">
 
   <a href="https://github.com/paradox133">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/github.svg" alt="stackoverflow" style="max-width: 100%;">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/github.svg" alt="github" style="max-width: 100%;">
   </a>
 </div>
 
